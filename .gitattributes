@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+# 二进制资源不要做行尾转换
+*.png binary
+*.icns binary
+*.xcassets/** binary
+*.pbxproj text eol=lf
+*.metal text
+
+# GitHub 语言统计
+*.swift linguist-language=Swift

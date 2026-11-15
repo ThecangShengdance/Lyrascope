@@ -1,0 +1,13 @@
+# 构建产物
+.build/
+Dist/
+.mcache/
+.shadercheck/
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
