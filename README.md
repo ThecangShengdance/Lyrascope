@@ -22,7 +22,7 @@ Lyrascope 是一个用 Swift + SwiftUI + Metal 写的 macOS 音乐可视化与�
 
 ## 下载
 
-到 [Releases](https://github.com/ThecangShengdance/Lyrascope/releases) 下载 `Lyrascope.zip`，解压后把 `Lyrascope.app` 拖进「应用程序」。
+到 [Releases](https://github.com/ThecangShengdance/Lyrascope/releases/latest) 下载 `Lyrascope-1.0.0.zip`，解压后把 `Lyrascope.app` 拖进「应用程序」。
 
 首次打开会被 Gatekeeper 拦一次（ad-hoc 签名，没有公证）：
 

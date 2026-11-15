@@ -48,3 +48,5 @@
 - ad-hoc 签名下，每次重新构建都可能在「系统设置 → 隐私与安全性 → 屏幕与系统录音」里需要重新勾选一次。
 - MediaRemote 是私有框架，属于非版权风险，但上架 Mac App Store 可能被拒。
 - 歌词版权归原权利方，App 不内置、不导出台词内容。
+
+[1.0.0]: https://github.com/ThecangShengdance/Lyrascope/releases/tag/v1.0.0
