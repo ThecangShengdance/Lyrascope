@@ -167,7 +167,7 @@ Lyrascope/
 
 - 本仓库代码为原创，以 [MIT](LICENSE) 发布。
 - 不包含任何 GPL / AGPL / LGPL 代码，没有任何第三方依赖。完整审查见 [Docs/LICENSE-AUDIT.md](Docs/LICENSE-AUDIT.md)。
-- 名称「Lyrascope」经过 App Store 与 GitHub 检索，未发现同名软件；如与他人商标冲突，请改名后使用。
+- 名称「Lyrascope」经过 App Store 与 GitHub 检索，未发现同名软件.
 - 歌词版权归各自权利人所有，本 App 只做本机展示，不提供歌词下载或再分发。
 
 ## 已知限制
